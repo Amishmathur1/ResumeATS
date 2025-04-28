@@ -27,8 +27,8 @@ A powerful Streamlit web app that uses AI (OpenAI GPT models) to analyze your re
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-directory>
+git clone https://github.com/Amishmathur1/ResumeATS
+cd ../ResumeATS
 ```
 
 ### 2. Install dependencies
@@ -51,7 +51,7 @@ nltk.download('stopwords')
 ### 4. Run the app
 
 ```bash
-streamlit run <your_main_python_file>.py
+streamlit run main.py
 ```
 
 ## Usage
