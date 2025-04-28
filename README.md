@@ -1,5 +1,7 @@
 # Professional Resume ATS Analyzer
 
+![ResumeATS Dashbord](images/dashbord.png)
+
 A powerful Streamlit web app that uses AI (OpenAI GPT models) to analyze your resume for ATS (Applicant Tracking System) compatibility. Upload your resume (PDF), optionally add a job description, and receive a detailed, actionable report with scores, keyword analysis, strengths, improvement areas, and best-practice tips.
 
 ## Features
@@ -16,7 +18,6 @@ A powerful Streamlit web app that uses AI (OpenAI GPT models) to analyze your re
 - **Best-Practice Tips**: Built-in guidance for resume writing and ATS optimization.
 
 ## Demo
-![ResumeATS Dashbord](images/dashbord.png)
 
 ![ResumeATS Score](images/score.png)
 
