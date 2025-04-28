@@ -16,6 +16,11 @@ A powerful Streamlit web app that uses AI (OpenAI GPT models) to analyze your re
 - **Best-Practice Tips**: Built-in guidance for resume writing and ATS optimization.
 
 ## Demo
+![ResumeATS Dashbord](images/dashbord.png)
+
+![ResumeATS Score](images/score.png)
+
+![ResumeATS Tips](images/third.png)
 
 ## Setup Instructions
 
@@ -62,9 +67,12 @@ streamlit run <your_main_python_file>.py
 
 See `requirements.txt` for all dependencies.
 ```
-
----
-
-✅ **Now this is one continuous, clean, and correctly formatted block you can copy-paste straight into your README.md without any problem.**
-
-Would you also like me to quickly create a fancier version with badges (like "Made with Streamlit", "OpenAI", "License" badges)? It looks super professional! 🚀
+streamlit
+openai
+PyPDF2
+pandas
+matplotlib
+numpy
+plotly
+wordcloud
+nltk
