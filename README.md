@@ -1,8 +1,3 @@
-Got it — you want **everything formatted neatly** in **one continuous block**, **uniform style**, **no broken formatting**, and **copy-paste ready** — like a proper professional README.
-
-Here’s the **fixed, clean, single block** version you asked for:
-
-```markdown
 # Professional Resume ATS Analyzer
 
 A powerful Streamlit web app that uses AI (OpenAI GPT models) to analyze your resume for ATS (Applicant Tracking System) compatibility. Upload your resume (PDF), optionally add a job description, and receive a detailed, actionable report with scores, keyword analysis, strengths, improvement areas, and best-practice tips.
